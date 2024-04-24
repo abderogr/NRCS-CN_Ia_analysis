@@ -10,3 +10,5 @@ Contained within this repository are 5 Jupyter Notebooks, each focused on the ap
 - NRCS-LEAST-SQUARES
 
 Additionally, the results of the metrics from applying these methods can be found in the files Metrics_runoff_G1 and Metrics_runoff_G2. The folder Times_series contains the time series of simulated runoff using the NRCS methods.
+
+The results are available: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10962037.svg)](https://doi.org/10.5281/zenodo.10962037)
